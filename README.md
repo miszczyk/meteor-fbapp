@@ -3,4 +3,4 @@
 meteor-fbapp
 ============
 
-My meteor.js project files
+Prosta aplikacja stworzona na podobieństwo "walla" z Facebooka. Pozwala ona na pisanie postów oraz komentarzy pod nimi.
