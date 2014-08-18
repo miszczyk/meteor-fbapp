@@ -1,3 +1,5 @@
+//blabla
+
 Meteor.publish("posts",function(userid){
 	return Posts.find({});
 })
